@@ -10,8 +10,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Java and improving my backend development skills
   
 -🎯 Goals for 2026
-    ✅ Become proficient in Java
-    ✅ Improve Backend Development skills
+-✅ Become proficient in Java
+-✅ Improve Backend Development skills
     
 - 📫 How to reach me:
    💼 LinkedIn: www.linkedin.com/in/william-de-oliveira-de-liz-45712530a
